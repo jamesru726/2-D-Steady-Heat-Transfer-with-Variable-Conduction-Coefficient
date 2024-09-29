@@ -8,6 +8,7 @@ Flexibility in boundary conditions
   - can choose temperatures of each face
 
 This code utlizes sparse matrices for speed and memory.
+
 For grid size 1000x1000
 Average Time for building Matrix: 5.71251127243042
 Average Time for solving Matrix: 18.544085969924925
