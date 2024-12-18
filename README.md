@@ -14,3 +14,4 @@ Average Time for building Matrix: 5.71251127243042
 Average Time for solving Matrix: 18.544085969924925
 Note: This varies from PC to PC
 
+![Example Image](example.png)
